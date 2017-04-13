@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBrown">#8B795E</color>
+    <color name="white">#F8F8FF</color>
+    <color name="colorGrey">#1C1C1C</color>
+    <color name="colorBezh"> #FFE7BA</color>
+    <color name="papaya">#FFFAFA</color>
+    <color name="colorWhiteBezh"> #FFFACD</color>
+    <color name="green">#ADFF2F</color>
+    <color name="chocolate">#FF7F24</color>
+    <color name="choco">#D2691E</color>
+    <color name="fon2">#D2B48C</color>
+    <color name="gray91">#E8E8E8</color>
+    <color name="colorDarkBezh"> #EE9A49</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#6495ED</color>
+    <color name="fon3">#C1FFC1</color>
+    <color name="indiRea">#CD5C5C</color>
+    <color name="brown">#8B814C</color>
+    <color name="plum">#FFE4E1</color>
+    <color name="orange">#FF7F00</color>
+    <color name="khaki">#FFF68F</color>
+    <color name="orchid">#8B4789</color>
+    <color name="tsitle">#FFE4E1</color>
+    <color name="snow">#FFDEAD</color>
+    <color name="fon1">#BDB76B</color>
+    <color name="iavender">#F0FFFF</color>
+    <color name="kaki">#EEEED1</color>
+    <color name="slateGray">#708090</color>
+    <color name="honeydew">#F0FFFF</color>
+    <color name="seashell">#FFFFE0</color>
+    <color name="fon7">#A9A9A9</color>
+    <color name="fon6">#FFE7BA</color>
+</resources>

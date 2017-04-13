@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a95c12685af9f396344269d6adc942b12943088a.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_61cd2db2a0609cd4b2abce09d221c6b9d66ac618.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_6428e20a8dcff68a56a33f6ec27f246fab2b1d85.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fb482666179cb4a1036d4d16445a289ef807cf58">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2f0ce9795bd77f85072f91891cb5c27ee1726220.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_eb94b0cff61ad26fc8a3f4a9ec6dcbc1bbc9c58b.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_470b695497aa7cd84a34d3b482d38b8e96bf01e7.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_f4d77ba77f7d2a2ba26a05001054e7d30c78a4c2.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_a832b260ab5d723374ea78939c2e3a0a8ff3c4c0.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_85bff4d2529422b8f7ee2cc8c497255c8e5dc10a.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_559eca8a452d12306a0a824dbbb0102e864f8653.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1bdb53ba041b6ee367917ded7ff72c551423c55d.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/info.hoang8f/fbutton/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/info.hoang8f-fbutton-1.0.5_05bdfe6c937610759fa6db226172a023b8e72c0c.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_fed494baba7a223f24c40e7aad7b244109a57802.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_71d20d6aa9cfdac4f31767350276ed6bdae6d1e9.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="07a24f0c68e07e59f19108767f150d8c5f550342">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/instant-run_53aa48b178c5042a26014d16b027bbd86c2ba709.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_ebd0fc4e68d863fa9bea3031f58f6e247c4ea0ef.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_3e0060cfcc7329c5618e50fd5524cf3521ebc9f9.jar" />
+    </item>
+    <item
+        jar="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/zemtsovaanna/AndroidStudioProjects/Economic/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_254341584acaac289f2662258eb94136838fbc9a.jar" />
+    </item>
+
+</items>

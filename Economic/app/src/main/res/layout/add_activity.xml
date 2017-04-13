@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:id="@+id/relativeLayout"
+    android:background="@color/chocolate">
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="Имя"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="100dp"
+        android:gravity="top|center"
+        android:ems="10"
+        android:inputType="textPersonName"
+         />
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="25dp"
+        android:gravity="top|center"
+        android:ems="10"
+        android:inputType="time"
+        android:hint="Цена"
+        />
+    <Button
+        android:id="@+id/buttonOk"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="300dp"
+        android:onClick="onOkClick"
+        android:gravity="top|center"
+        android:background="@drawable/rounded_button"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:text="Ok" />
+</LinearLayout>
